@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'nobody_talksregular';
+    src: url('nobody_talks-webfont.woff2') format('woff2'),
+         url('nobody_talks-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'nobody_talksregular';
+    src: url('nobody_talks-webfont.woff2') format('woff2'),
+         url('nobody_talks-webfont.woff') format('woff');
+    font-weight400: normal;
+    font-style: normal;
+
+}
